@@ -13,6 +13,16 @@ app.get('/', (req, res) => {
 	res.send('server for ThaiZest is running');
 });
 
+app.get('/chefs', (req, res) => {
+	res.send(chefs);
+});
+
+app.get('/chef/:id', (req, res) => {
+	const id = req.params.id;
+	const foundedRecipes = recipes.filter((recipe) => recipe.id === id);
+	res.send(foundedRecipes);
+});
+
 app.listen(port, () => {
 	console.log(`running on port ${port}`);
 });
