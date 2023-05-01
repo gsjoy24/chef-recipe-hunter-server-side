@@ -1,0 +1,56 @@
+[
+	{
+		"id": "CHF01",
+		"picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/08/Nan-Bunyasaranand-top-chefs-in-thailand.jpg",
+		"name": "Somchai Srisomboon",
+		"years_of_experience": 10,
+		"number_of_recipes": 4,
+		"number_of_likes": 2500,
+		"bio": "Chef Somchai Srisomboon is an award-winning Thai chef who has been cooking for over a decade. He specializes in creating traditional Thai dishes with a modern twist, and is known for his innovative use of ingredients and flavors. With four popular recipe books and numerous appearances on cooking shows, Chef Somchai is a respected figure in the culinary world."
+	},
+	{
+		"id": "CHF02",
+		"picture": "https://caamedia.org/wp-content/uploads/sites/3/2015/11/Hong_Thaimee1.jpg",
+		"name": "Nongkran Daks",
+		"years_of_experience": 15,
+		"number_of_recipes": 5,
+		"number_of_likes": 3500,
+		"bio": "Chef Nongkran Daks is the owner and head chef of the award-winning Thai restaurant Thai Basil in Chantilly, Virginia. She has over 15 years of experience cooking Thai cuisine, and is known for her authentic flavors and innovative dishes. Chef Nongkran has also authored several popular cookbooks and has made numerous appearances on cooking shows."
+	},
+	{
+		"id": "CHF03",
+		"picture": "https://static.bangkokpost.com/media/content/20230308/4673970.jpg",
+		"name": "David Thompson",
+		"years_of_experience": 20,
+		"number_of_recipes": 5,
+		"number_of_likes": 5000,
+		"bio": "Chef David Thompson is an Australian chef and restaurateur who has become an authority on Thai cuisine. He has spent over 20 years researching and studying the traditional flavors and cooking techniques of Thailand, and has opened multiple award-winning restaurants around the world. Chef Thompson has also authored several books on Thai cuisine and is a regular contributor to food magazines."
+	},
+	{
+		"id": "CHF04",
+		"picture": "https://img.theculturetrip.com/450x/smart/images/56-188494-image-1-chef-kittichai-portrait.jpg",
+		"name": "Ian Kittichai",
+		"years_of_experience": 18,
+		"number_of_recipes": 4,
+		"number_of_likes": 4500,
+		"bio": "Chef Ian Kittichai is a Thai chef and restaurateur who has made a name for himself both in Thailand and internationally. He has over 18 years of experience in the culinary industry, and has opened multiple successful restaurants in Thailand, New York, and Mumbai. Chef Kittichai is known for his modern take on Thai cuisine, and has authored several cookbooks on the subject."
+	},
+	{
+		"id": "CHF05",
+		"picture": "https://live.staticflickr.com/5527/9761125426_5a03a25361_b.jpg",
+		"name": "Andy Ricker",
+		"years_of_experience": 25,
+		"number_of_recipes": 4,
+		"number_of_likes": 7000,
+		"bio": "Chef Andy Ricker is an Thai chef and restaurateur who has become an authority on Thai cuisine. He has spent over 25 years traveling to Thailand and learning about the country's traditional cooking techniques and flavors, and has opened multiple successful restaurants in the United States. Chef Ricker is also the author of several books on Thai cuisine, and has won multiple James Beard Foundation awards."
+	},
+	{
+		"id": "CHF06",
+		"picture": "https://torja.ca/wp/wp-content/uploads/2014/10/mengrai-gourmet-thai-07.jpg",
+		"name": "Sasi Meechai",
+		"years_of_experience": 12,
+		"number_of_recipes": 3,
+		"number_of_likes": 3200,
+		"bio": "Chef Sasi Meechai is a Thai chef who has been cooking for over 12 years. She has worked in some of the best Thai restaurants in Bangkok and has traveled extensively throughout Thailand to learn about the country's diverse culinary traditions. Chef Meechai is known for her ability to blend traditional Thai flavors with modern techniques, and has won several awards for her innovative dishes. She is also the author of a popular cookbook on Thai cuisine."
+	}
+]
