@@ -4,6 +4,7 @@ const app = express();
 
 const chefs = require('./data/chefs.json');
 const recipes = require('./data/recipes.json');
+const categories = require('./data/categories.json');
 
 const port = process.env.PORT || 5000;
 
@@ -15,6 +16,10 @@ app.get('/', (req, res) => {
 
 app.get('/chefs', (req, res) => {
 	res.send(chefs);
+});
+
+app.get('/categories', (req, res) => {
+	res.send(categories);
 });
 
 app.get('/chef/:id', (req, res) => {

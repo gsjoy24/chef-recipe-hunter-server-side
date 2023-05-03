@@ -1,0 +1,32 @@
+[
+	{
+		"id": "01",
+		"category_name": "Curry dishes",
+		"category_image": "https://irepo.primecp.com/2016/03/269040/recipe-21051_Large500_ID-1523871.jpg?v=1523871"
+	},
+	{
+		"id": "02",
+		"category_name": "Noodle dishes",
+		"category_image": "https://ministryofcurry.com/wp-content/uploads/2021/01/Pad-Thai_-1-500x500.jpg"
+	},
+	{
+		"id": "03",
+		"category_name": "Stir-fried dishes",
+		"category_image": "https://inquiringchef.com/wp-content/uploads/2022/03/Thai-Cashew-Chicken_square-5166-500x500.jpg"
+	},
+	{
+		"id": "04",
+		"category_name": "Soup dishes",
+		"category_image": "https://dishingouthealth.com/wp-content/uploads/2020/03/ThaiVegetableSoup5-500x500.jpg"
+	},
+	{
+		"id": "05",
+		"category_name": "Appetizers",
+		"category_image": "https://grantourismotravels.com/wp-content/uploads/2021/05/Thai-Miang-Kham-Recipe-for-Bite-Sized-Wraps-of-Thailand-in-a-Mouthful-Copyright-2022-Terence-Carter-Grantourismo-T-500x500.jpg"
+	},
+	{
+		"id": "06",
+		"category_name": "Salads",
+		"category_image": "https://static.toiimg.com/thumb/55599204.cms?imgsize=270637&width=800&height=800"
+	}
+]
